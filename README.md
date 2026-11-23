@@ -1,6 +1,5 @@
 # dl-standard-skills
-
-Grok / Agent Skills 集合，聚焦 **Python 深度学习工程规范** 与 **Draw.io 专业图表生成**。
+聚焦 **Python 深度学习工程规范** 与 **Draw.io 专业图表生成**。
 
 ## 包含的 Skills
 
